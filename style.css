@@ -1,0 +1,89 @@
+
+
+nav{
+    overflow: hidden;
+    background-color: none;
+    position: fixed;
+    width: 100%;
+}
+header li a{
+    float: right;
+    font-size: 1.2em;
+    display: block;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    list-style: none; 
+    margin: 0;
+    padding: 0;
+}
+#imagePrincipale{
+    background : wheat;
+}
+
+
+body {
+    background-image:url("./media/robert-lukeman-_RBcxo9AU-U-unsplash2.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#textIntro{
+    font-family: 'Roboto', sans-serif;
+    padding: 30px;
+    font-weight: bold;
+}
+#textIntro h2{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+}
+#AccompagnementTherapeutique {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    }
+
+
+
+
+.competences{
+    max-width: 50%;
+    height: auto;
+    border-radius: 20px;
+    background-color: blanchedalmond;
+    min-width: 400px;
+    min-height: 200px;
+    margin: 20px;
+    
+    
+}
+
+.competences p{
+    text-align: left;
+    margin-left: 20px;
+}
+
+.competences h3{
+    text-align: center;
+    font-size: 1.5em;
+}
+
+   
+.photoAT{
+    border-radius: 20px;
+    float: right;
+    width: 50%;
+    height: auto;
+    min-width: 400px;
+    
+}
