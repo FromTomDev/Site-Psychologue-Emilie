@@ -1,18 +1,25 @@
-/*.bgPresentation{
-    background: url(./media/seljalandsfoss-1751463.jpg) no-repeat center fixed;
-    background-size: cover;
-    margin: 0;
-    padding: 0;
-   
-}*/
 
 .SizePresentation{
-    background: url(./media/seljalandsfoss-1751463.jpg) no-repeat center fixed;
+    background: url(./media/tree-569275_1920.jpg) no-repeat center fixed;
     background-size: cover;
     margin: 0;
     padding: 0;
     width: auto;
-    height: 400px;
+    height: 500px;
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.SizeCitation{
+    background-color: blanchedalmond;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: 250px;
+
 }
 
 
